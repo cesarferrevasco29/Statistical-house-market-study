@@ -1,0 +1,1 @@
+For privacy and confidential reasons the databases and code were kept private. If the user wants to have access to the database, the .do, .r and LaTeX code, a formal submission will have to be sent to cesarferreavasco@gmail.com.
